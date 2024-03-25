@@ -1,13 +1,15 @@
 
-Atualmente fazendo engenharia de software em busca de melhorar minhas habilidades técnicas e comunicativas. Gosto de aprender fazendo projetos e lendo documentação. Minhas hardskills sendo treinadas neste momento são Java, Banco de dados relacional(principalmente MySql e PostgreSQL), SOLID e versionamento de código(Git e Github). E na parte de softskills estou treinando leitura, oratória, autodidatismo e raciocino lógico.
+<bold>Prazer, meu nome é Eduarda!</bold> Atualmente estou fazendo engenharia de software em busca de melhorar minhas habilidades técnicas e comunicativas. Gosto de aprender fazendo projetos e lendo documentação. Minhas hardskills sendo treinadas neste momento são Java, Banco de dados relacional(principalmente MySql e PostgreSQL), SOLID e versionamento de código(Git e Github). E na parte de softskills estou treinando leitura, oratória, autodidatismo e raciocino lógico.
 
 ## Formação e Experiência
 
-- 🎓 Concluí um curso técnico em Desenvolvimento de Sistemas, que me proporcionou uma base sólida em programação.
-- 💻 Tenho experiência básica em linguagens como C, C++ e Java, onde aprendi os conceitos fundamentais da programação.
-- 🚀 Tenho experiência mais sólida com JavaScript (Node.js) e Python, e estou empolgada para continuar aprofundando meu conhecimento nessas linguagens.
+<ul>
+  <li>UniSenai - Graduação em Engenharia de Software.</li>
+  <li>Unicesumar - Fiz 3 módulos de uma graduação em engenharia de software. Desesti pois o modelo EAD não estava me agradando, e estava sentindo que estava perdendo networking neste formato.</li>
+  <li>Senai - Técnico em desenvolvimento de sistemas.</li>
+</ul>
 
-
+<br>
 
 ## Ferramentas que ja tive experiência
 
