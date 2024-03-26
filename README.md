@@ -1,5 +1,5 @@
-<img src="GreenComputer(2).png" height="200px" width="100%">
-<bold>Prazer, meu nome é Eduarda!</bold> Atualmente estou fazendo engenharia de software em busca de melhorar minhas habilidades técnicas e comunicativas. Gosto de aprender fazendo projetos e lendo documentação. Minhas hardskills sendo treinadas neste momento são Java, Banco de dados relacional(principalmente MySql e PostgreSQL), SOLID e versionamento de código(Git e Github). E na parte de softskills estou treinando leitura, oratória, autodidatismo e raciocino lógico.
+<h1>Prazer, meu nome é Eduarda!</h1>
+  Atualmente estou fazendo engenharia de software em busca de melhorar minhas habilidades técnicas e comunicativas. Gosto de aprender fazendo projetos e lendo documentação. Minhas hardskills sendo treinadas neste momento são Java, Banco de dados relacional(principalmente MySql e PostgreSQL), SOLID e versionamento de código(Git e Github). E na parte de softskills estou treinando leitura, oratória, autodidatismo e raciocino lógico.
 
 ## Formação e Experiência
 
