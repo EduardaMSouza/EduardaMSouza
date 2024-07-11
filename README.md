@@ -5,7 +5,7 @@
 
 <ul>
   <li>UniSenai - Graduação em Engenharia de Software.</li>
-  <li>Unicesumar - Fiz 3 módulos de uma graduação em engenharia de software. Desesti pois o modelo EAD não estava me agradando, e estava sentindo que estava perdendo networking neste formato.</li>
+ 
   <li>Senai - Técnico em desenvolvimento de sistemas.</li>
 </ul>
 
